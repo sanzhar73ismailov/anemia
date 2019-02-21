@@ -4,6 +4,7 @@ define('SITE_NAME', "Anemia");
 define('DEBUG', "1");
 define('ADMIN_CODE', "anemia2017");
 define('ADMIN_EMAIL', "sanzhar73@gmail.com");
+define('READ_MODE', "1"); //режим только на чтение
 
 
 include_once 'includes/class_dao.php';
